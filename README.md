@@ -5,10 +5,10 @@
 
 
 <p align="center">
-  <a href="#">
+  <a href="https://play.google.com/store/apps/details?id=com.imikidas.booksvox">
     <img src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-black?logo=google-play&logoColor=white&style=for-the-badge" alt="Download on Google Play"></a>
     &nbsp;
-   <a href="https://play.google.com/store/apps/details?id=com.imikidas.booksvox"> 
+   <a href="#"> 
      <img src="https://img.shields.io/badge/Download%20on%20App%20Store%20(Soon)-black?logo=apple&logoColor=white&style=for-the-badge" alt="Download on App Store (Soon)"/>
    </a>
 </p>
@@ -22,10 +22,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/imikidas/BooksVox/issues/new/choose">🐞 Report a Bug</a> •
-  <a href="https://github.com/imikidas/BooksVox/discussions/categories/feature-requests">💡 Suggest a Feature</a> •
-  <a href="https://booksvox.com">🌐 Visit Website</a> •
-  <a href="https://discord.gg/kXq9gXNA3Y">💬 Join Discord</a>
+  <a href="https://github.com/imikidas/BooksVox/issues/new/choose" target="_blank">🐞 Report a Bug</a> •
+  <a href="https://github.com/imikidas/BooksVox/discussions/categories/feature-requests" target="_blank">💡 Suggest a Feature</a> •
+  <a href="https://booksvox.com" target="_blank">🌐 Visit Website</a> •
+  <a href="https://discord.gg/kXq9gXNA3Y" target="_blank">💬 Join Discord</a>
 </p>
 <p align="center">
 <b>BooksVox</b> is a modern, feature-rich, offline-first audiobook player designed for simplicity, flexibility, and a great listening experience. Whether you're commuting, relaxing, or falling asleep, BooksVox gives you full control over your audiobook library with thoughtful features built just for listeners.
