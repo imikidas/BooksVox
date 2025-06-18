@@ -25,7 +25,7 @@
   <a href="https://github.com/imikidas/BooksVox/issues/new/choose">🐞 Report a Bug</a> •
   <a href="https://github.com/imikidas/BooksVox/discussions/categories/feature-requests">💡 Suggest a Feature</a> •
   <a href="https://booksvox.com">🌐 Visit Website</a> •
-  <a href="https://discord.gg/h7Nwcbep">💬 Join Discord</a>
+  <a href="https://discord.gg/kXq9gXNA3Y">💬 Join Discord</a>
 </p>
 <p align="center">
 <b>BooksVox</b> is a modern, feature-rich, offline-first audiobook player designed for simplicity, flexibility, and a great listening experience. Whether you're commuting, relaxing, or falling asleep, BooksVox gives you full control over your audiobook library with thoughtful features built just for listeners.
