@@ -8,7 +8,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.imikidas.booksvox">
     <img src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-black?logo=google-play&logoColor=white&style=for-the-badge" alt="Download on Google Play"></a>
     &nbsp;
-   <a href="#"> 
+   <a href="https://forms.gle/BX3NhsR5J9TVjid38"> 
      <img src="https://img.shields.io/badge/Download%20on%20App%20Store%20(Soon)-black?logo=apple&logoColor=white&style=for-the-badge" alt="Download on App Store (Soon)"/>
    </a>
 </p>
@@ -53,7 +53,7 @@
 Ready to listen? Download The app from:
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.imikidas.booksvox)
-- [Apple App Store (Soon)](#)
+- [Apple App Store (Soon)](https://forms.gle/BX3NhsR5J9TVjid38)
   
 
 
